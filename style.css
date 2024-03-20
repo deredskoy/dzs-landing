@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 html:focus-within {
 	scroll-behavior: smooth;
 }
@@ -662,7 +666,7 @@ header {
 .technologies {
 	padding-bottom: 3rem;
 	margin-top: 3rem;
-	margin-bottom: 6rem;
+	margin-bottom: 3rem;
 	justify-content: center;
 	margin-left: auto;
 	margin-right: auto;
@@ -701,7 +705,7 @@ header {
 }
 
 .tech-used-icon {
-	gap: 4rem;
+	gap: 1.5rem;
 	margin-top: 1.5rem;
 	align-items: center;
 	justify-content: center;
